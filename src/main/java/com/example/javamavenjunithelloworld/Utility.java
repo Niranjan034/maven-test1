@@ -14,6 +14,6 @@ public class Utility {
     }
 
     public static void Niranjan() {
-        System.out.println("I am Niranjan Reddy Kandula");
+        System.out.println("I am Venkata Niranjan Reddy Kandula");
     }
 }
