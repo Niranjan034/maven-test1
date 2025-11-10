@@ -8,7 +8,7 @@ public class Utility {
         int c = 45;
 
         int biggest = findBiggest(a, b, c);
-        System.out.println("The biggest number among " + a + ", " + b + ", and " + c + " is: " + biggest);
+        System.out.println("The biggest number among the numbers " + a + ", " + b + ", and " + c + " is: " + biggest);
 
         Niranjan();
     }
